@@ -38,4 +38,14 @@
 }
 */
 
+
+// click a button
+//VC1 *vc1 = [[VC1 alloc] initWithNibName:@"VC1" bundle:nil];
+//[vc1 setModalTransitionStyle:UIModalTransitionStyleFlipHorizontal];
+//[self presentViewController:vc1 animated:YES completion:nil];
+
+// dismiss a view controller
+// [self dismissViewControllerAnimated:NO completion:nil]
+// [[self presentingViewController] dismissViewControllerAnimated:NO completion:nil]
+
 @end
