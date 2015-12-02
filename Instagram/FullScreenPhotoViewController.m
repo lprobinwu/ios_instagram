@@ -9,6 +9,8 @@
 #import "FullScreenPhotoViewController.h"
 #import "UIImageView+AFNetworking.h"
 
+// zoom the photo in full screen view controller is not implemented yet
+
 @interface FullScreenPhotoViewController () <UIScrollViewDelegate>
 
 @end

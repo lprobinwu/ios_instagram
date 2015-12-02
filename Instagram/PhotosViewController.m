@@ -34,7 +34,7 @@
     self.tableView.dataSource= self;
     self.tableView.delegate = self;
     
-//    self.tableView.rowHeight = 320;
+    self.tableView.rowHeight = 210;
     
     [self fetchData];
 }
